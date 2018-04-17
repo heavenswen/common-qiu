@@ -1,0 +1,15 @@
+{
+  "name": "common-qiu",
+  "version": "0.0.1",
+  "description": "qiu's common.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qiu",
+    "javascript"
+  ],
+  "author": "423822728@qq.com",
+  "license": "ISC"
+}
