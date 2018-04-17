@@ -29,7 +29,7 @@ API
 名称|类型|说明
 -|-|-
 dom|Node or String|目标对象
-target|css选择器
+target|string|css选择器
 
 #### 
 
