@@ -26,10 +26,13 @@ import {siblings} from "common-qiu"
 siblings(dom,target)
 ```
 API
-名称|类型|说明
--|-|-
+|名称|类型|说明|
+|----|----|-----|
 dom|Node or String|目标对象
 target|string|css选择器
 
+|a     |b      |
+|------|-------|
+|a|a|a|
 #### 
 
